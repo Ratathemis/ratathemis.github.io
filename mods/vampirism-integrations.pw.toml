@@ -1,0 +1,13 @@
+name = "Vampirism Integrations"
+filename = "vampirism_integrations-1.21.1-1.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e55fdc1a6ceb3864c19ddc84452d817571f02b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7500284
+project-id = 282433

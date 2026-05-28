@@ -1,0 +1,13 @@
+name = "Animal Garden - Common Raven"
+filename = "animalgarden-commonraven-1.0.0-neoforge-1.21.1-21.1.213.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbc8c6e2a00115653832ea78fdb92cf38294121f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7140890
+project-id = 1370539

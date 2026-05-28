@@ -1,0 +1,13 @@
+name = "Sherds API (NeoForge/Fabric/Quilt)"
+filename = "sherdsapi-neoforge-1.21.1-6.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3677e918e8064f48840fe4f83ff21bccfd9adea1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7986400
+project-id = 847583

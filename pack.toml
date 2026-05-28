@@ -1,0 +1,13 @@
+name = "Ravencove"
+author = "Arteamissing"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "049b57b6037f33a332dab35a5119c739b3ddf4ae7dd3d69bea7ce9cd281c564c"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"

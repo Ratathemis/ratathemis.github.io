@@ -1,0 +1,13 @@
+name = "Timeline"
+filename = "rpgtimeline-neoforge-1.21-2.0.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9843374a44477cb7afcf97cbcd56d049c0a7d39b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7678437
+project-id = 1454051
