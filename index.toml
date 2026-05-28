@@ -121,6 +121,38 @@ file = "config/vampirism-client.toml"
 hash = "0159b55e972eb04e35be7ae100be87db381b2bde4364be12c8c09b68e08ad93e"
 
 [[files]]
+file = "journeymap/config/6.0/journeymap.core.config"
+hash = "d0537fd18e965c8ea64b3501e992c8c53d08e4fa585817eb161d503adece9537"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.fullmap.config"
+hash = "7b8751f0f022df4604ababa60866c044019e684120842951789731269e942507"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap.config"
+hash = "b82b67f17a5ac7a9be8a1344f8bba82ca6254095e80403fe2bc1c144e3853ca7"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.minimap2.config"
+hash = "99b0a0a11751e04348fc68d1bfb8e44a297c67189cccf7f08902da8db1fab8ed"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.rendering.config"
+hash = "8afd6862c760abaf5bb4b83c39df2e3bff41c03d7450f738238503f663461585"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.topo.config"
+hash = "5b65da83a108ed9552bafb10d3fe9bf109e9a5f45c11c3264dc07f41f8a07e13"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.waypoint.config"
+hash = "3a5be14fa5f3317fd924ece2575dc06acd0947eb480dcd07384075fc02f846f4"
+
+[[files]]
+file = "journeymap/config/6.0/journeymap.webmap.config"
+hash = "b8f464762067333852b532b58cacf89c314e5159db52e5cca73105d3ed822f00"
+
+[[files]]
 file = "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar"
 hash = "07f449b7766845883523ffadb8fb706ec011c1212aa378b48bea5841188f0b04"
 
