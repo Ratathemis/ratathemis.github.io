@@ -122,7 +122,7 @@ hash = "dadae11754c0465a593c0761fad57d1ffcc544a135d7157419274b7eda86c72b"
 
 [[files]]
 file = "config/vampirism-client.toml"
-hash = "0159b55e972eb04e35be7ae100be87db381b2bde4364be12c8c09b68e08ad93e"
+hash = "33cd739ae71d41916c21bcb700a42528c7727e7cb856e08385841910253dc6b8"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
