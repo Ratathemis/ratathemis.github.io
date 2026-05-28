@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e7eda12c67b8a1ed7cf51f9dd858881b333ce1eea9c97f9000e7cbb29420d79c"
+
+[[files]]
 file = "config/fancymenu/assets/aspectratio.png"
 hash = "e855153815886d1a83c2a9b0cb569f0b44fc88e7df0d360b0f6a0b4f0daa47da"
 
@@ -115,10 +119,6 @@ hash = "a222d9dbd76abee70ff6532ba522236f5a240e95a5ba829d7f413e9f6ac52756"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "dadae11754c0465a593c0761fad57d1ffcc544a135d7157419274b7eda86c72b"
-
-[[files]]
-file = "config/vampirism-client.toml"
-hash = "0159b55e972eb04e35be7ae100be87db381b2bde4364be12c8c09b68e08ad93e"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
