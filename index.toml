@@ -121,10 +121,6 @@ file = "config/jade/sort-order.json"
 hash = "dadae11754c0465a593c0761fad57d1ffcc544a135d7157419274b7eda86c72b"
 
 [[files]]
-file = "config/vampirism-client.toml"
-hash = "0159b55e972eb04e35be7ae100be87db381b2bde4364be12c8c09b68e08ad93e"
-
-[[files]]
 file = "journeymap/config/6.0/journeymap.core.config"
 hash = "d0537fd18e965c8ea64b3501e992c8c53d08e4fa585817eb161d503adece9537"
 
